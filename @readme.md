@@ -1,10 +1,7 @@
-
-This application is built on fasthttp and fasthttprouter - it is designed to be exceptionally fast, and use very little memory.  This means there are zero memory allocations in the hot paths and it is up to 10x faster than net/http.
-
-
+This example application is built on fasthttp and fasthttprouter - it is designed to be exceptionally fast, and use very little memory.  It is also meant to be an example of a graceful shutdown with fasthttp.  Your review, feedback and pull requests are welcome.  Cheers!
 
 
 Resources:
 
-https://github.com/valyala/fasthttp
-https://github.com/buaazp/fasthttprouter
+* https://github.com/valyala/fasthttp
+* https://github.com/buaazp/fasthttprouter
