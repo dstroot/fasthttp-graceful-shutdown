@@ -2,7 +2,7 @@ This example application is built on fasthttp and fasthttprouter - it is designe
 
 Note: assumes you have Dep installed.
 
-To run clone the repo and run `dep ensure` then `go run $(ls *.go | grep -v _test.go)` (assuming I tests at some point)
+To run clone the repo and run `dep ensure` then `go run $(ls *.go | grep -v _test.go)` (assuming I write tests at some point)
 
 Resources:
 
